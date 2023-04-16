@@ -1,0 +1,102 @@
+body {
+    background-color: darkorange;
+}
+
+.centerdiv{
+    width: 510px;
+    height: 345px;
+    margin: 20px auto 0;
+    padding: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: orange;
+    box-shadow: 13px 13px 15px 0px rgba(41, 180, 127, 0.664), 
+    -13px -13px 15px 0px rgba(70, 248, 180, 0.575);
+    border-radius:15px 15px 15px 15px;
+   }
+
+   h2{
+    margin-top: -40px;
+    padding: 0 0 10px;
+    color: black;
+    text-align: center;
+   }
+
+   .box{
+    padding: 20px;
+    width: 120px;
+    float: left;
+    margin: 5px;
+    height: 110px;
+    line-height: 30px;
+   }
+
+   .box1{
+       background: #196F3D;
+       border-radius: 10px 10px 10px 10px;
+       text-align: center;
+       color: white;
+   }
+
+   .box2{
+    background: #28B463 ;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    color: black;
+    }
+
+    .box3{
+    background: #58D68D;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    color: black;
+    }
+
+    .box4{
+        background: #82E0AA;
+        border-radius: 10px 10px 10px 10px;
+        text-align: center;
+        color: black;
+    }
+
+    .box5{
+        background: #ABEBC6;
+        border-radius: 10px 10px 10px 10px;
+        text-align: center;
+        color: black;
+    }
+
+    .box6{
+        background: #E0FFFF;
+        border-radius: 10px 10px 10px 10px;
+        text-align: center;
+        color: black;
+    }
+
+    .search{
+        padding: 8px 9px;
+        background: white;
+        border: 0px;
+        border-radius: 20px 20px 20px 20px;
+        margin-top: -20px;
+        margin-left: 115px;
+    }
+
+    .button{
+        padding: 8px 9px;
+        background: black;
+        color: white;
+        border-radius: 20px 20px 20px 20px;
+        margin-top: -20px;
+    }
+
+    .button:hover{
+        background: lightcyan;
+        color: black;
+    }
+
+
+
+
